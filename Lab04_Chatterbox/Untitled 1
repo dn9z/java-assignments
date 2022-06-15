@@ -1,0 +1,6 @@
+
+Um auf Felder anderer Klasse zuzugreifen. 
+
+1. Chatclient - Chat Extends Socket.
+2. ChatServer - serverSocket.accept() ; cast zu Chatclient
+3. -> Zugriff auf Felder
